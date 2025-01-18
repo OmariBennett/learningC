@@ -6,9 +6,9 @@ People sometimes struggle with C when they start from scratch or come from a hig
 
 I would not try and understand how the higher level abstractions translate to the lower C level. I would instead learn from first principles on how a computer works and build the abstractions up from there. You will learn how a CPU works. How the data bus and registers are used. How memory is laid out and accessed. The call stack and how that works, etc.. This will go a long way in understanding how C sits on top of this and how it's data structures like arrays and structs map to this and understanding how pointers work the way they do and why. **_Check out these resources:_**
 
-1. Read [Code: The Hidden Language of Computer Hardware and Software](https://www.youtube.com/watch?v=QZwneRb-zqA&ab_channel=SebastianLague)
+1. Read [Code: The Hidden Language of Computer Hardware and Software](https://charlespetzold.com/code/)
 
-2. Watch [Exploring How Computers Work](https://charlespetzold.com/code/)
+2. Watch [Exploring How Computers Work](https://www.youtube.com/watch?v=QZwneRb-zqA&ab_channel=SebastianLague)
 
 3. Watch all 41 videos of [A Crash Course in Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
